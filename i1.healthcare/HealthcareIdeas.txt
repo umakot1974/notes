@@ -1,0 +1,26 @@
+Healthcare ideas
+
+-->
+Central Api servers
+a) Medicine Translator (multi-lingual)
+    input -> Image 
+    Procesing --> Recognize, get info
+    output -> Give details in language of choice
+
+b) Health report Translator 
+    input -> Image
+    processing -> get data from report 
+    output -> give details in language of choice 
+c) Service Listing - Embed html code also given (https://embed.ly/providers)
+https://stackoverflow.com/questions/14098802/how-to-create-embed-code-for-other-sites
+d) Location listing 
+e) Timing listing 
+b) Encrypted Push noitification 
+    - Encryption - Decryption
+    - Payload
+    - meta tags
+c) Recognize 
+d) Healthcare chatbot ---> to service discovery
+e) Healthcare bot --> form capture --> bypass face2face recognition
+f) Insurance claim processing
+reminders - from list of reminders - Multi-lingual
